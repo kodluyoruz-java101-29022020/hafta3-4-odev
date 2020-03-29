@@ -85,3 +85,5 @@ klavyeden email ve şifre bilgisini alan bir sınıf tasarlayınız. Klavyeden a
 
 
 **Soru2:** Çift yönlü LinkedList algoritmasını Generic sınıfları kullanarak kendiniz yazınız. (Java Collection Framework içindeki hazır LinkedList'i kullanmaMAnız gerekmektedir.)
+
+**Bu bir sınav değildir! Yeni sloganımız ==> Geliştirmek için kodluyoruz ... :))**
